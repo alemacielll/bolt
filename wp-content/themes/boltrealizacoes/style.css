@@ -1,0 +1,11 @@
+/*   
+	Theme Name: Bolt Realizações
+	Theme URL: https://argosolucoes.com.br
+	Description: Tema WordPress | Exclusivo - Layout, CSS, HTML, PHP e Wordpress.
+	Author: Argo Soluções
+	Author URI: https://argosolucoes.com.br
+*/
+
+@media (max-width: 480px) {
+	.hidden-md{display: block;}
+}

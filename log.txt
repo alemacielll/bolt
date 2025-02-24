@@ -1,0 +1,44 @@
+2025-02-02 20:06:13 - {
+  "id": "evt_15e444ff9b9ab9ec29294aa1abe68025&8322407",
+  "event": "PAYMENT_CONFIRMED",
+  "dateCreated": "2025-02-02 01:22:58",
+  "payment": {
+    "object": "payment",
+    "id": "pay_vr1540gif5qffpzr",
+    "dateCreated": "2025-02-02",
+    "customer": "cus_000006481295",
+    "value": 35,
+    "netValue": 33.82,
+    "description": "Inscrição: 3km - 35.00 - Prova: Circuito Banco do Brasil",
+    "billingType": "CREDIT_CARD",
+    "confirmedDate": "2025-02-02",
+    "status": "CONFIRMED",
+    "dueDate": "2025-02-03",
+    "paymentDate": null,
+    "clientPaymentDate": "2025-02-02",
+    "invoiceUrl": "https://sandbox.asaas.com/i/vr1540gif5qffpzr",
+    "transactionReceiptUrl": "https://sandbox.asaas.com/comprovantes/3692003224976428"
+  }
+}
+2025-02-02 20:06:51 - {
+  "id": "evt_15e444ff9b9ab9ec29294aa1abe68025&8322407",
+  "event": "PAYMENT_CONFIRMED",
+  "dateCreated": "2025-02-02 01:22:58",
+  "payment": {
+    "object": "payment",
+    "id": "pay_uplscufr7rm8ee7i",
+    "dateCreated": "2025-02-02",
+    "customer": "cus_000006481295",
+    "value": 35,
+    "netValue": 33.82,
+    "description": "Inscrição: 3km - 35.00 - Prova: Circuito Banco do Brasil",
+    "billingType": "CREDIT_CARD",
+    "confirmedDate": "2025-02-02",
+    "status": "CONFIRMED",
+    "dueDate": "2025-02-03",
+    "paymentDate": null,
+    "clientPaymentDate": "2025-02-02",
+    "invoiceUrl": "https://sandbox.asaas.com/i/vr1540gif5qffpzr",
+    "transactionReceiptUrl": "https://sandbox.asaas.com/comprovantes/3692003224976428"
+  }
+}
